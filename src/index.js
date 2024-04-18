@@ -16,6 +16,8 @@ const appProvider = createBrowserRouter([
       //     element: (),
       //   },
     ],
+    path: "/inventory-management",
+    element: <App />,
     // errorElement:
   },
 ]);
